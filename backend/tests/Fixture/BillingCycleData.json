@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Janeiro/2022",
+        "month": 1,
+        "year": 2022,
+        "credits": [
+            {
+                "name": "Salario Empresa",
+                "value": 6500
+            },
+            {
+                "name": "Salario Professor",
+                "value": 2700
+            }
+        ],
+        "debits": [
+            {
+                "name": "Telefone",
+                "value": 150,
+                "status": "PAGO"
+            }
+        ]
+    }, {
+        "name": "Fevereiro/2022",
+        "month": 2,
+        "year": 2022,
+        "credits": [
+            {
+                "name": "Salario Estagio",
+                "value": 2000
+            },
+            {
+                "name": "Restituicao",
+                "value": 1500
+            }
+        ],
+        "debits": [
+            {
+                "name": "NET",
+                "value": 200,
+                "status": "PENDENTE"
+            }
+        ]
+    }
+]
